@@ -9,7 +9,7 @@ topsis-102003373 is a Python library for dealing with Multiple Criteria Decision
 ## Installation
 
 Use the package manager pip to install it.
-pip install Topsis-Arushi-102003373==0.1
+pip install Topsis-Arushi-102003373
 
 
 ## Usage
